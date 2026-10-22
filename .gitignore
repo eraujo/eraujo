@@ -1,0 +1,13 @@
+# estruturas e dados de simulacao ficam so na maquina local:
+# sao arquivos pesados e, em parte, resultados ainda nao publicados
+sistemas-estudados/
+
+# PDB gerado a partir do .gro pelo scripts/gro2pdb.py
+preF.pdb
+
+# python
+__pycache__/
+*.pyc
+
+# scripts de geracao ficam locais
+scripts/
